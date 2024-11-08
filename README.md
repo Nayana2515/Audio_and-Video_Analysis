@@ -10,7 +10,7 @@ Cross-Platform Compatibility: Uses libraries and methods that are compatible acr
 Install the required libraries using:
 pip install -r requirements.txt
 
-## Required Packages:
+### Required Packages:
 
 opencv-python for video processing
 numpy for numerical operations
